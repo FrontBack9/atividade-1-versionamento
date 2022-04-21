@@ -3,3 +3,26 @@ O acesso ao site do git.
 Instalação da ferramenta git.
 Criação de um usuário e fornecer um endereço de email.
 
+Para criação do repositório git local? 
+Com uma pasta já criada anteriormente na área de trabalho com o nome "atividade1versionamento" efetuar um clique com o botão direiro do mouse em uma área em branco com o arquivo já aberto e iniciar o o Git Bash Here com o botão direito do mouse.
+
+Criar um arquivo para ser alterado e rastreado?
+Dentro da pasta criada Atividade1Versionamento, criou-se um arquivo de texto com a finalidade de ser alterado e rastreado chamado "Atividade1"
+Após essa inserção deve-se efetuar o comando git add atividade1 ou git add .
+Para rastrear esta alteração usar o comando git status
+Depois salvar o arquivo com o comando git commit -m "Atividade1 adicionada"
+
+Para criação de um repositório on-line?
+
+Com o github já aberto e logado clicar em new repository ou apenas new caso você já tenha criado algum outro repositório.
+Definir se o reositório será publico ou privado.
+Depois clicar em Create Repository.
+
+Após o passo acima com o seu git local usar o comando:
+git remote add origin https://github.com/FrontBack9/atividade-1-versionamento.git
+em seguida
+git push -u origin main
+
+Para fazer alterações deve-se ir na pasta repositório do git e depois no arquivo de texto criado abrí-lo e efetuar as alterações que julgar conveniente.
+Após este passo vai ao git local e usar o comando: git add .
+Depois git push -u origin main
