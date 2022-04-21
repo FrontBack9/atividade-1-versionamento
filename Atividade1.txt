@@ -25,4 +25,5 @@ git push -u origin main
 
 Para fazer alterações deve-se ir na pasta repositório do git e depois no arquivo de texto criado abrí-lo e efetuar as alterações que julgar conveniente.
 Após este passo vai ao git local e usar o comando: git add .
+DEpois git commit -m "Inserção de dados no arquivo atividade 1"
 Depois git push -u origin main
