@@ -1,0 +1,5 @@
+Após:
+O acesso ao site do git.
+Instalação da ferramenta git.
+Criação de um usuário e fornecer um endereço de email.
+
