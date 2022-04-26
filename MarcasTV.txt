@@ -2,3 +2,4 @@ Samsung
 Sony
 Philco
 LG
+TCL
