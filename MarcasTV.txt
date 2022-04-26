@@ -3,3 +3,4 @@ Sony
 Philco
 LG
 AOC
+TCL
