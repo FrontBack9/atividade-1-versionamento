@@ -2,4 +2,5 @@ Samsung
 Sony
 Philco
 LG
+AOC
 TCL
