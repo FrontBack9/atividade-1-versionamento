@@ -1,1 +1,3 @@
-Inicio da funcionalidade login no trabalho 
+Inicio da funcionalidade login no trabalho.
+
+Validação de e-mails de usuários. 
